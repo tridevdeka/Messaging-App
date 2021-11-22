@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694628705509",
+    "project_id": "messaging-app-edf90",
+    "storage_bucket": "messaging-app-edf90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694628705509:android:00135a5e25194a82e0e00c",
+        "android_client_info": {
+          "package_name": "com.example.messagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694628705509-g40cvlgmlarqaapd2dctl045bqkfe056.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsdzYf4nIGCcK92XogohpujPNaz4IBJ8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694628705509-g40cvlgmlarqaapd2dctl045bqkfe056.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
